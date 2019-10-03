@@ -19,11 +19,11 @@
   
     1. Projeto da arquitetura
        - Hierarquia de dados
-       - banco de dados
+       - Banco de dados
     2. Implementação do front-end
     3. Integração back-end e front-end
     
-    A pessoa que procuramos para trabalhar conosco atuará principalmente nas etapas 2 e 3 desse projeto.
+    **A pessoa que procuramos para trabalhar conosco atuará principalmente nas etapas 2 e 3 desse projeto.
 
   - Bolsa de 600 reais por mês
   - Carga Horária de X a Y horas semanais
