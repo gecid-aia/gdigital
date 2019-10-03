@@ -14,7 +14,8 @@
 
 ## Descrição do projeto:
   Desenvolvimento de uma Galera Digital para democratizar o acesso a coleções públicas e privadas.
-  Etapas do projeto:
+  
+  ### Etapas do projeto:
   
     1. Projeto da arquitetura
        - Hierarquia de dados
